@@ -1,0 +1,59 @@
+.landing-imgs-left{
+    width: 60%;
+    height: 50%;
+    float: left;
+    margin-bottom: 4%;
+    margin-right: 5px;
+}
+.landing-imgs-right{
+    width:40%;
+    height: 30%;
+    
+}
+
+.brand-container{
+    margin-left: 10%;
+    background-color: lightseagreen;
+    color: white !important;
+    font-weight: bold;
+    padding: 10px;
+}
+body{
+    font-family: 'Merriweather', serif;
+    background-color: #ededed;
+    color: #9299a5;
+}
+.navbar{
+    padding: 0 !important;
+    background-color: white !important;
+}
+h1,h2{
+    color: lightseagreen;
+    padding-left: 5%;
+}
+.summary-container{
+margin-top: 5%;
+background-color: white;
+}
+.visulization-container{
+    margin-top: 5%;
+
+background-color: white;
+}
+.comp-container{
+    margin-top: 4%;
+    margin-bottom: 5%;
+    background-color: white;
+}
+.data-container{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+
+}
+.main-1{
+    width: 60%;
+}
+.main-2{
+    width: 30%;
+}
